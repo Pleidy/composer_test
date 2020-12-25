@@ -1,0 +1,17 @@
+{
+    "name": "p_com/composer_test",
+    "description": "composer test",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "pleidy",
+            "email": "pleidy@163.com"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+            "composer_test\\": "src/"
+        }
+    },
+    "require": {}
+}
