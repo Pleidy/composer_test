@@ -1,7 +1,7 @@
 {
     "name": "p_com/composer_test",
     "description": "composer test",
-    "license": "1.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "pleidy",
